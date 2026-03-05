@@ -2,7 +2,7 @@
 https://hub.docker.com/repository/docker/fisinaa/custom-nginx/general
 docker run -d -p 8080:80 fisinaa/custom-nginx:1.0.0
 задача_2 
-задание_2.png
+https://github.com/fisinaa/virtd-homeworks/blob/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_2.png
 задача 3
 см картинки 
 объяснение проблемы внутри контейнера поменяли порт на 81, а в конфиге мы смапили порт 80 вот оно и не идет. показывает старый порт 80 
