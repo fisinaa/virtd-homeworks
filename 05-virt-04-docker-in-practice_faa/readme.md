@@ -15,5 +15,10 @@ task_2
 сделал ради интереса как работает yc помогал claude
 <img width="1675" height="963" alt="image" src="https://github.com/user-attachments/assets/ac4b423b-8cf8-4a86-8393-718ff6828fd8" /> 
 <img width="1697" height="955" alt="image" src="https://github.com/user-attachments/assets/e5a113b1-d9ff-46e1-9afa-92bfae1404b3" />
+---
+task_3
+used https://check-host.net/
+<img width="436" height="510" alt="image" src="https://github.com/user-attachments/assets/67900b3d-39d7-47c6-a973-b6d3f5861b71" />
+
 
 
