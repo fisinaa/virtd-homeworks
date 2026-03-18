@@ -18,6 +18,7 @@ task_2
 ---
 task_3
 used https://check-host.net/
+
 <img width="436" height="510" alt="image" src="https://github.com/user-attachments/assets/67900b3d-39d7-47c6-a973-b6d3f5861b71" />
 
 
