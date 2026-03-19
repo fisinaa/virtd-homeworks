@@ -24,10 +24,10 @@ used https://check-host.net/<br>
 
 <img width="436" height="510" alt="image" src="https://github.com/user-attachments/assets/67900b3d-39d7-47c6-a973-b6d3f5861b71" />
 ---
-task_4<br>
-<img width="716" height="837" alt="image" src="https://github.com/user-attachments/assets/aa440b59-f7a0-4d95-a60b-4181e951a95f" />
+<br>task_4<br>
+<img width="716" height="837" alt="image" src="https://github.com/user-attachments/assets/aa440b59-f7a0-4d95-a60b-4181e951a95f" /><br>
 
-link to fork 
+link to fork<br>
 https://github.com/fisinaa/shvirtd-example-python
 
 
