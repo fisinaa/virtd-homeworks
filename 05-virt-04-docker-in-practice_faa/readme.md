@@ -32,9 +32,17 @@ https://github.com/fisinaa/shvirtd-example-python<br>
 ---
 task_6<br>
 чистая вм установил необходимое для работы<br>
-<img width="717" height="132" alt="image" src="https://github.com/user-attachments/assets/a2fc1c5b-67f4-4d13-bca7-ca39986931a2" />
-<img width="820" height="28" alt="image" src="https://github.com/user-attachments/assets/a3b1137e-5872-46ab-9698-e77471aa5d17" />
-<img width="725" height="527" alt="image" src="https://github.com/user-attachments/assets/0c5d92aa-86fd-4739-a1cb-5d1951d66820" />
+<img width="717" height="132" alt="image" src="https://github.com/user-attachments/assets/a2fc1c5b-67f4-4d13-bca7-ca39986931a2" /><br>
+<img width="820" height="28" alt="image" src="https://github.com/user-attachments/assets/a3b1137e-5872-46ab-9698-e77471aa5d17" /><br>
+<img width="725" height="527" alt="image" src="https://github.com/user-attachments/assets/0c5d92aa-86fd-4739-a1cb-5d1951d66820" /><br>
+dive <br>
+<img width="1679" height="900" alt="image" src="https://github.com/user-attachments/assets/30eb4bd0-fe7e-44b6-988e-91ce035f25ed" /><br>
+<img width="832" height="308" alt="image" src="https://github.com/user-attachments/assets/65fcccf2-9077-4ff6-9e26-1a581f52159b" />
+<img width="1195" height="57" alt="image" src="https://github.com/user-attachments/assets/e6d12cd1-6696-47d0-8d8e-462ffe85cfbe" />
+<img width="921" height="120" alt="image" src="https://github.com/user-attachments/assets/2e1c53a2-d35a-41f3-b96a-b4c7938f2a04" />
+
+
+
 
 
 
