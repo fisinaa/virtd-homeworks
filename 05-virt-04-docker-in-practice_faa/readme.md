@@ -37,9 +37,14 @@ task_6<br>
 <img width="725" height="527" alt="image" src="https://github.com/user-attachments/assets/0c5d92aa-86fd-4739-a1cb-5d1951d66820" /><br>
 dive <br>
 <img width="1679" height="900" alt="image" src="https://github.com/user-attachments/assets/30eb4bd0-fe7e-44b6-988e-91ce035f25ed" /><br>
-<img width="832" height="308" alt="image" src="https://github.com/user-attachments/assets/65fcccf2-9077-4ff6-9e26-1a581f52159b" />
-<img width="1195" height="57" alt="image" src="https://github.com/user-attachments/assets/e6d12cd1-6696-47d0-8d8e-462ffe85cfbe" />
-<img width="921" height="120" alt="image" src="https://github.com/user-attachments/assets/2e1c53a2-d35a-41f3-b96a-b4c7938f2a04" />
+<img width="832" height="308" alt="image" src="https://github.com/user-attachments/assets/65fcccf2-9077-4ff6-9e26-1a581f52159b" /><br>
+<img width="1195" height="57" alt="image" src="https://github.com/user-attachments/assets/e6d12cd1-6696-47d0-8d8e-462ffe85cfbe" /><br>
+<img width="921" height="120" alt="image" src="https://github.com/user-attachments/assets/2e1c53a2-d35a-41f3-b96a-b4c7938f2a04" /><br>
+скринить не стал вот вывод <br>
+faa@templ:~$ ./terraform --version
+Terraform v1.14.7
+on linux_amd64
+
 
 
 
