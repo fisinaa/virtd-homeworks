@@ -44,6 +44,13 @@ dive <br>
 faa@templ:~$ ./terraform --version
 Terraform v1.14.7
 on linux_amd64
+---
+task_6.1<br>
+запустили<br>
+скопировали <br>
+проверили<br>
+<img width="707" height="177" alt="image" src="https://github.com/user-attachments/assets/c953ed49-e099-4599-818d-2fd033e5362a" />
+
 
 
 
