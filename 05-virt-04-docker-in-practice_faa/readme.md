@@ -34,6 +34,8 @@ task_6<br>
 чистая вм установил необходимое для работы<br>
 <img width="717" height="132" alt="image" src="https://github.com/user-attachments/assets/a2fc1c5b-67f4-4d13-bca7-ca39986931a2" />
 <img width="820" height="28" alt="image" src="https://github.com/user-attachments/assets/a3b1137e-5872-46ab-9698-e77471aa5d17" />
+<img width="725" height="527" alt="image" src="https://github.com/user-attachments/assets/0c5d92aa-86fd-4739-a1cb-5d1951d66820" />
+
 
 
 
