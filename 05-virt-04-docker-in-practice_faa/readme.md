@@ -28,7 +28,14 @@ used https://check-host.net/<br>
 <img width="716" height="837" alt="image" src="https://github.com/user-attachments/assets/aa440b59-f7a0-4d95-a60b-4181e951a95f" /><br>
 
 link to fork<br>
-https://github.com/fisinaa/shvirtd-example-python
+https://github.com/fisinaa/shvirtd-example-python<br>
+---
+task_6<br>
+чистая вм установил необходимое для работы<br>
+<img width="717" height="132" alt="image" src="https://github.com/user-attachments/assets/a2fc1c5b-67f4-4d13-bca7-ca39986931a2" />
+<img width="820" height="28" alt="image" src="https://github.com/user-attachments/assets/a3b1137e-5872-46ab-9698-e77471aa5d17" />
+
+
 
 
 
