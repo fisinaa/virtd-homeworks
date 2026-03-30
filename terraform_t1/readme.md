@@ -41,6 +41,24 @@ CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS   
 Q6.
 Опасность -auto-approve — никакого подтверждения перед применением. Если в коде ошибка — Terraform сразу удалит или пересоздаст без предупреждения. В проде можно случайно снести рабочее и замениь на "битое"
 Зачем нужен — автоматизации. Когда Terraform запускается автоматически — некому вводить yes, поэтому -auto-approve.
+---
+Q7.
+faa@home-work-terraform:~/ter-homeworks/01/src$ cat terraform.tfstate
+{
+  "version": 4,
+  "terraform_version": "1.12.0",
+  "serial": 11,
+  "lineage": "1421373c-14e9-7cc0-d81f-65f3ff562139",
+  "outputs": {},
+  "resources": [],
+  "check_results": null
+}
+---
+Q8.
+keep_locally = true 
+эта строчка говорит Terraform не удалять образ локально при terraform destroy
+keep_locally (Boolean) If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation.
+https://library.tf/providers/kreuzwerker/docker/latest/docs/resources/image
 
 
 
