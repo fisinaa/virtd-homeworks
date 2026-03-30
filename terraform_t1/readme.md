@@ -23,13 +23,13 @@ faa@home-work-terraform:~/ter-homeworks/01/src$ terraform validate
 │   23: resource "docker_image" {<br>
 │<br>
 │ All resource blocks must have 2 labels (type, name).  <- говорит что должно быть тип и имя, у нас только первая часть <br>
- исправим примерно так -  resource "docker_image" "nginx" {<br>
-│ Error: Invalid resource name
-│
-│   on main.tf line 28, in resource "docker_container" "1nginx":
-│   28: resource "docker_container" "1nginx" {  <- ошибка тут 
-│
-│ A name must start with a letter or underscore and may contain only letters, digits, underscores, and dashes. тут написано что начало только с буквы или _
+ исправим примерно так -  resource "docker_image" "nginx" {<br><br>
+│ Error: Invalid resource name<br>
+│<br>
+│   on main.tf line 28, in resource "docker_container" "1nginx":<br>
+│   28: resource "docker_container" "1nginx" {  <- ошибка тут <br>
+│<br>
+│ A name must start with a letter or underscore and may contain only letters, digits, underscores, and dashes. тут написано что начало только с буквы или _<br>
 для исправления уберем цифру - resource "docker_container" "nginx" {
 
 
