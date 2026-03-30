@@ -7,9 +7,11 @@
 <img width="1476" height="744" alt="image" src="https://github.com/user-attachments/assets/d0e09587-4674-4f52-ab12-093b3e0f6456" /><br>
 запустил файл проекта <br>
 <img width="1438" height="721" alt="image" src="https://github.com/user-attachments/assets/47e00e71-9c6c-431a-b602-41ac0e768c8b" /><br>
-получили генерированный пароль<br> 
+Q3.получили генерированный пароль<br> 
 <img width="858" height="613" alt="image" src="https://github.com/user-attachments/assets/ff9e8bc0-dbc0-495a-be0c-5fb5c9ad6775" /><br>
-
+Q2.В каком terraform-файле, согласно этому .gitignore, допустимо сохранить личную, секретную информацию?<br>
+# own secret vars store.<br>
+personal.auto.tfvars <- тут<br> 
 
 
 
