@@ -38,7 +38,9 @@ faa@home-work-terraform:~/ter-homeworks/01/src$ docker ps <br>
 CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS         PORTS                  NAMES<br>
 109d8f90e737   0cf1d6af5ca7   "/docker-entrypoint.…"   7 seconds ago   Up 5 seconds   0.0.0.0:9090->80/tcp   example_4esDl0qUUPk52vii<br>
 ---
-
+Q6.
+Опасность -auto-approve — никакого подтверждения перед применением. Если в коде ошибка — Terraform сразу удалит или пересоздаст без предупреждения. В проде можно случайно снести рабочее и замениь на "битое"
+Зачем нужен — автоматизации. Когда Terraform запускается автоматически — некому вводить yes, поэтому -auto-approve.
 
 
 
