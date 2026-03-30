@@ -16,13 +16,13 @@ personal.auto.tfvars <- тут<br>
 ---
 Q4.
 faa@home-work-terraform:~/ter-homeworks/01/src$ terraform validate
-╷
-│ Error: Missing name for resource
-│
-│   on main.tf line 23, in resource "docker_image":
-│   23: resource "docker_image" {
-│
-│ All resource blocks must have 2 labels (type, name).  <- говорит что должно быть тип и имя, у нас только первая часть 
+╷<br>
+│ Error: Missing name for resource<br>
+│<br>
+│   on main.tf line 23, in resource "docker_image":<br>
+│   23: resource "docker_image" {<br>
+│<br>
+│ All resource blocks must have 2 labels (type, name).  <- говорит что должно быть тип и имя, у нас только первая часть <br>
  исправим примерно так -  resource "docker_image" "nginx" {<br>
 │ Error: Invalid resource name
 │
