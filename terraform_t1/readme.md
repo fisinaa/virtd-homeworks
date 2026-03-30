@@ -31,6 +31,14 @@ faa@home-work-terraform:~/ter-homeworks/01/src$ terraform validate
 │<br>
 │ A name must start with a letter or underscore and may contain only letters, digits, underscores, and dashes. тут написано что начало только с буквы или _<br>
 для исправления уберем цифру - resource "docker_container" "nginx" {
+---
+Q5.terraform apply<br>
+<img width="522" height="564" alt="image" src="https://github.com/user-attachments/assets/c68277c9-2224-4a8b-8064-bf29b827a93c" /><br>
+faa@home-work-terraform:~/ter-homeworks/01/src$ docker ps <br>
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS         PORTS                  NAMES<br>
+109d8f90e737   0cf1d6af5ca7   "/docker-entrypoint.…"   7 seconds ago   Up 5 seconds   0.0.0.0:9090->80/tcp   example_4esDl0qUUPk52vii<br>
+---
+
 
 
 
